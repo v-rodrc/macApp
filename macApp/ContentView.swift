@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  macApp
 //
-//  Created by Christopher Rodriguez on 6/4/20.
+//  Created by Chrceistopher Rodriguez on 6/4/20.
 //  Copyright © 2020 Christopher Rodriguez. All rights reserved.
 //
 
